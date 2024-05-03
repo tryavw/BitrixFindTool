@@ -1,0 +1,49 @@
+[
+    {
+        "display_name": "career.366.ru",
+        "mode": "ACTIVE",
+        "ip_host_port_tuples": [
+            {
+                "host": "career.366.ru",
+                "ip": "10.170.2.11",
+                "port": 80
+            },
+            {
+                "host": "career.366.ru",
+                "ip": "10.170.2.11",
+                "port": 443
+            }
+        ],
+        "obj_id": "04703b3b-8d5c-4400-aea6-1aeb49066bb2",
+        "Bitrix_EXT": "present"
+    },
+    {
+        "display_name": "api-gateway-ift-mb-dev.pdp.pulse.insure",
+        "mode": "PASSIVE",
+        "ip_host_port_tuples": [
+            {
+                "host": "api-gateway-ift-mb-dev.pdp.pulse.insure",
+                "ip": "10.170.2.10",
+                "port": 80
+            },
+             {
+                "host": "werwe2rw.rsb.ru",
+                "ip": "10.170.2.10",
+                "port": 443
+            },
+            {
+                "host": "api-gateway-ift-mb-dev.pdp.pulse.insure",
+                "ip": "10.170.2.10",
+                "port": 443
+            },
+            {
+                "host": "www.api-gateway-ift-mb-dev.pdp.pulse.insure",
+                "ip": "10.170.2.10",
+                "port": 80
+            }
+
+        ],
+        "obj_id": "078ccbd5-1d65-4e1e-9055-528fd68567c0",
+        "Bitrix_EXT": ""
+    }
+]
